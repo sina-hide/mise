@@ -1,5 +1,12 @@
 # Changelog
 
+## [2025.3.12](https://github.com/jdx/mise/compare/v2025.3.11..v2025.3.12) - 2025-03-29
+
+### 🚜 Refactor
+
+- **(registry)** use aqua for ubi by [@scop](https://github.com/scop) in [#4745](https://github.com/jdx/mise/pull/4745)
+- **(registry)** use aqua for ksops by [@scop](https://github.com/scop) in [#4746](https://github.com/jdx/mise/pull/4746)
+
 ## [2025.3.11](https://github.com/jdx/mise/compare/v2025.3.10..v2025.3.11) - 2025-03-28
 
 ### 🚀 Features
